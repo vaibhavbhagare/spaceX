@@ -13,3 +13,6 @@ Used extra libraries/dependencies:
 3. react-router-dom
 4. axios
    
+Observations: 
+1. In Some cases in the filter, the given API does not respond to the correct information for "Successfully Landing".
+2. So the page will show "Data not found(s)". 
